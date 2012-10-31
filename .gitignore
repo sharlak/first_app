@@ -17,3 +17,5 @@
 *.pyc
 *.pyo
 */.git/*
+
+.project
